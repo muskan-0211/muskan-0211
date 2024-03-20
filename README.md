@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1VlNIsdxC7uhSwKU39eAmBoQa_P6yevBg/view?usp=drive_link" target="_blank">Resume</a>
 
-- ⚡ Fun fact **
+
 
 <h3 align="left">Connect with me:</h3>     
 <p align="left">
